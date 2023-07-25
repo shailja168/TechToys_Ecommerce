@@ -11,10 +11,11 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Capstone24",
+  "author": "TechToys",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.0",
+    "braintree": "^3.16.0",
     "colors": "^1.4.0",
     "concurrently": "^8.0.1",
     "cors": "^2.8.5",

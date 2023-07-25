@@ -32,7 +32,7 @@
   font-weight: 600;
   font-family: "roboto", sans-serif;
   letter-spacing: 1px;
-  color: maroon;
+  color: rgb(5, 9, 53);
 }
 
 /* =============================
@@ -101,4 +101,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* ==================== */
+.product-link {
+  text-decoration: none !important;
+  color: black !important;
 }
